@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 3D Modeler
 ----------
 
-I am a dedicated 3D Modeler with a deep passion for storytelling through animation and visual effects. With \[X years\] of experience in the animation and film industry, I specialize in creating detailed, expressive 3D models that captivate audiences and elevate cinematic experiences. Using industry-standard tools like Autodesk Maya, ZBrush, and Blender, I craft everything from lifelike characters and creatures to intricate props and set pieces, ensuring each asset is ready for rigging, animation, and rendering in pipelines like Arnold or V-Ray.
+I am a dedicated 3D Modeler with a deep passion for storytelling through animation and visual effects. With 2 years of experience in the animation and film industry, I specialize in creating detailed, expressive 3D models that captivate audiences and elevate cinematic experiences. Using industry-standard tools like Autodesk Maya, ZBrush, and Blender, I craft everything from lifelike characters and creatures to intricate props and set pieces, ensuring each asset is ready for rigging, animation, and rendering in pipelines like Arnold or V-Ra
 
 My approach blends artistic creativity with technical expertise, allowing me to produce models that are both visually stunning and optimized for production. I have a keen eye for detail, whether sculpting intricate surface textures, designing dynamic character anatomy, or ensuring topology supports seamless animation. My portfolio includes \[insert specific project, e.g., “a hero character for a short animated film” or “a fantastical creature for a VFX-heavy feature”\], where I collaborated with directors and animators to bring creative visions to life.
 
